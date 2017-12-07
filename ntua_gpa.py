@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #GPA calculator for the National Technical University of Athens, Greece
 
-print ("\nGPA calculator for the National Technical University of Athens (Greece) | Author: Pavlos Mparitakis.")
+print ("\nGPA calculator for the National Technical University of Athens (Greece).")
 
 while True:
 	
